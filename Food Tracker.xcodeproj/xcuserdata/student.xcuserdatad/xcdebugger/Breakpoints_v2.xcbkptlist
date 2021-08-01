@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "878AE7D9-166C-4A37-A6C5-EB54D8266551"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Tracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - 7ca7c16a7b8a4cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.nameTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - b8d978da9e8a48db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.nameTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - bbdf0cf68cf809be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.nameTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - fc1a11ef3e71c07f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.nameTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - 5fbd547de02bd5d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Food_Tracker.ViewController"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "BDF8427D-0FDA-4D96-85AC-A24EC8D32230 - 85ab99d1a5517ca1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Food_Tracker.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Food_Tracker.ViewController&gt;"
+                  moduleName = "Food Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Grupa%2011%20NP%20917/Food%20Tracker/Food%20Tracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9098F370-9782-4BD6-92CD-902E55E81208"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food TrackerTests/Food_TrackerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D0F7722-54E3-43CE-BE3C-4C2BEDA348F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Tracker/MealTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
